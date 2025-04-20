@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1-Score
+vit base patch16,0.9822,0.9811,0.9820,0.9815
+vit base patch32,0.9726,0.9715,0.9731,0.9720
+vit large patch16,0.9808,0.9792,0.9807,0.9799
+vit large patch32,0.9754,0.9742,0.9762,0.9750
